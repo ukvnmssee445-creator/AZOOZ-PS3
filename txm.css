@@ -5,7 +5,7 @@
     border-radius: 20px;
     position: absolute;
     top:150px;
-    left: 300px;
+    left: 40px;
 }
 .bot2{
     font-family: system-ui, -apple-system,
@@ -40,7 +40,7 @@
     background-color: rgb(225, 207, 180);
 }
 .cdc{
-    width: 1510px;
+    width: 650px;
     height: 50px;
     background-color: rgb(57, 60, 42);
 }
@@ -51,5 +51,5 @@
     border-radius: 20px;
     position: absolute;
     top:150px;
-    left: 670px;
+    left: 370px;
 }
